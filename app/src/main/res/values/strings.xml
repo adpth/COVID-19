@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">Covid 19</string>
+    <string name="enter_your_country_name">Enter your country name</string>
+    <string name="case_study_of">Case Study of :</string>
+    <string name="json_value">json value</string>
+    <string name="confirmed">Confirmed</string>
+    <string name="recovered">Recovered</string>
+    <string name="deaths">Deaths</string>
+    <string name="corona">Corona</string>
+    <string name="symptoms">Symptoms</string>
+    <string name="see_details">See details</string>
+    <string name="contact_near_by_doctor">Contact near by doctor</string>
+    <string name="stay_home_stay_safe">Stay Home Stay Safe</string>
+    <string name="if_you_face_corona_related_symptoms_then_consult_near_by_doctor">If you face corona related symptoms then consult near by doctor.</string>
+    <string name="symtomes">Symtomes</string>
+
+</resources>
