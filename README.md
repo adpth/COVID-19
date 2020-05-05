@@ -1,3 +1,3 @@
 # COVID-19
 
-![untitled-165 (dragged)](https://user-images.githubusercontent.com/61702243/81061048-4854c900-8ef1-11ea-844e-11d9d2609f89.jpg)
+![untitled-165 (dragged) (1)](https://user-images.githubusercontent.com/61702243/81061605-46d7d080-8ef2-11ea-88a9-28e54b92440b.jpg)
