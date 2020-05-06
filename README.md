@@ -1,5 +1,5 @@
-# No have no rights to sell this project
 # COVID-19
+## you have no rights to sell this project
 
 You need to have internet access to get the data for the country you want to search.
 
