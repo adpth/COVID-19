@@ -1,9 +1,9 @@
 # Features
- . Live Time Data
+ - Live Time Data
  
- . All Countries Data Available
+ - All Countries Data Available
  
- .Incluedes Corona Symptoms List
+ - Incluedes Corona Symptoms List
 
 # COVID-19
 ## you have no rights to sell this project
