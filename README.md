@@ -1,7 +1,7 @@
 # Features
- ![image](https://user-images.githubusercontent.com/61702243/81369039-fd180180-910e-11ea-83e6-fec069585023.png) Live Time Data
- ![image](https://user-images.githubusercontent.com/61702243/81369039-fd180180-910e-11ea-83e6-fec069585023.png) All Countries Data Available
- ![image](https://user-images.githubusercontent.com/61702243/81369039-fd180180-910e-11ea-83e6-fec069585023.png)Incluedes Corona Symptoms List
+ ![image](https://user-images.githubusercontent.com/61702243/81369118-3d777f80-910f-11ea-9552-831e303714ef.png) Live Time Data
+ ![image](https://user-images.githubusercontent.com/61702243/81369118-3d777f80-910f-11ea-9552-831e303714ef.png) All Countries Data Available
+ ![image](https://user-images.githubusercontent.com/61702243/81369118-3d777f80-910f-11ea-9552-831e303714ef.png) Incluedes Corona Symptoms List
 
 # COVID-19
 ## you have no rights to sell this project
