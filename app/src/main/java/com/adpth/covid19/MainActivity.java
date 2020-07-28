@@ -111,8 +111,8 @@ public class MainActivity extends AppCompatActivity {
                 Request request = new Request.Builder()
                         .url("https://covid-19-data.p.rapidapi.com/country?format=json&name=" + COUNTRY)
                         .get()
-                        .addHeader("x-rapidapi-host", "your own rapidapi host")
-                        .addHeader("x-rapidapi-key", "your own rapidapi key")
+                        .addHeader("x-rapidapi-host", "covid-19-data.p.rapidapi.com")
+                        .addHeader("x-rapidapi-key", "a65ed4164bmshecc6a41b1453609p12d370jsn36dc92fffc6d")
                         .build();
 
                 Response response = client.newCall(request).execute();
