@@ -11,8 +11,9 @@ public class Detail_Activity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_detail);
 
-        getSupportActionBar().setTitle("Symptoms");
-        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-
+        if(getSupportActionBar() != null) {
+            getSupportActionBar().setTitle("Symptoms");
+            getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+        }
     }
 }
