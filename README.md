@@ -3,7 +3,7 @@
  
  - All Countries Data Available
  
- - Incluedes Corona Symptoms List
+ - Includes Corona Symptoms List
 
 # COVID-19
 
