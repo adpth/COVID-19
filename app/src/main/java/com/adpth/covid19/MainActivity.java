@@ -112,7 +112,7 @@ public class MainActivity extends AppCompatActivity {
                         .url("https://covid-19-data.p.rapidapi.com/country?format=json&name=" + COUNTRY)
                         .get()
                         .addHeader("x-rapidapi-host", "covid-19-data.p.rapidapi.com")
-                        .addHeader("x-rapidapi-key", "a65ed4164bmshecc6a41b1453609p12d370jsn36dc92fffc6d")
+                        .addHeader("x-rapidapi-key", "your own Rapid api key")
                         .build();
 
                 Response response = client.newCall(request).execute();
