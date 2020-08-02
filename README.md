@@ -7,6 +7,8 @@
 
 # COVID-19
 
+![Frame 86](https://user-images.githubusercontent.com/61702243/89116794-b9d2f200-d4b5-11ea-9ab7-25596c7b298a.png)
+
 You need to have internet access to get the data for the country you want to search.
 
 ![untitled-165 (dragged)](https://user-images.githubusercontent.com/61702243/81061948-dd0bf680-8ef2-11ea-8b49-a114805f6dd9.jpg)
